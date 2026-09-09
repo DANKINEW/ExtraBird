@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SFMLIM.vcxproj" Id="ac962822-7cc7-450a-8624-931157dca13d" />
+</Solution>
